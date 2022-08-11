@@ -38,7 +38,7 @@ const LoginCreate = () => {
         ) : (
           <Button>Cadastrar</Button>
         )}
-        <Error error={error} /> 
+        <Error error={error} />
       </form>
     </section>
   );
